@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HaydenGregory
 - 👀 I’m interested in building cool stuff on the web
-- 🌱 I’m currently learning Python and JavaScript
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on projects that are challenging
 - 📫 You can reach me on here if you want to collaborate on any cool projects!
 
