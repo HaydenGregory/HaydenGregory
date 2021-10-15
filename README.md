@@ -36,8 +36,9 @@ const Hayden = {
 <p align="center">
   <img align="center" width="450" height="165" src="https://github-readme-stats.vercel.app/api?username=HaydenGregory&show_icons=true&hide_border=false&line_height=20&show_owner=true&theme=vue"/>
 <img align="center" width="450" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaydenGregory&layout=compact&hide=HTML&langs_count=10&theme=vue"/>
+    <br/>  <br/>
    <a href="https://github.com/HaydenGregory"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HaydenGregory&custom_title=Hayden%20Gregory's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+
 </p>
 <hr>
 
