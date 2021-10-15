@@ -47,13 +47,5 @@ const Hayden = {
   <a href="https://www.linkedin.com/in/hayden-gregory-55b960a5/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="45">
   <a href="https://github.com/HaydenGregory"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="45">
   <a href="https://www.instagram.com/happy__accident__/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="45">
-
+  <a href="https://twitter.com/happy_acident_"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="45">
 </p>
-
-<!-- <hr>
-<details>
-<summary> <b> 🛠 Tech Stack </b> </summary>
-<p align="center">
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width=40> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"> | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40"> | <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> | <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="boostrap" width="40"> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"> | <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40"> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"> | <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="postman" width="40"> |
-</p>
-</details> -->
