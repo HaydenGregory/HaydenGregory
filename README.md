@@ -43,7 +43,7 @@ const Hayden = {
 <hr>
 
 ## 🙋‍♀️ Let's Connect
-<p align="center">
+<p align="center" style="justify-content-spacebetween">
   <a href="mailto:gregory00123@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="45">
   <a href="https://www.linkedin.com/in/hayden-gregory-55b960a5/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="45">
   <a href="https://github.com/HaydenGregory"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="45">
